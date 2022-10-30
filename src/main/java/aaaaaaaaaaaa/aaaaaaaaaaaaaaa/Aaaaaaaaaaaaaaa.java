@@ -7,7 +7,26 @@ public final class Aaaaaaaaaaaaaaa extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
+        getLogger().info("Hello わーーーーーーーーーーーーーーーーーーーーーーーーーるど");
     }
 
     @Override
