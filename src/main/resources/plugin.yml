@@ -1,0 +1,9 @@
+name: Aaaaaaaaaaaaaaa
+version: '${project.version}'
+main: aaaaaaaaaaaa.aaaaaaaaaaaaaaa.Aaaaaaaaaaaaaaa
+api-version: 1.19
+prefix: test
+load: STARTUP
+authors: [ mochi33 ]
+description: tset
+website: mochi33.com
