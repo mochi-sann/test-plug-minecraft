@@ -1,4 +1,4 @@
-package aaaaaaaaaaaa.aaaaaaaaaaaaaaa;
+package mochi.plugin;
 
 import org.bukkit.event.Listener;
 

@@ -1,4 +1,4 @@
-package aaaaaaaaaaaa.aaaaaaaaaaaaaaa;
+package mochi.plugin;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
@@ -10,7 +10,7 @@ import org.bukkit.command.CommandSender;
 import java.util.Objects;
 
 
-public final class Aaaaaaaaaaaaaaa extends JavaPlugin {
+public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {

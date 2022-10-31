@@ -1,4 +1,4 @@
-package aaaaaaaaaaaa.aaaaaaaaaaaaaaa;
+package mochi.plugin;
 
 public class RunTest {
     public static int subtraction(int x, int y) {
