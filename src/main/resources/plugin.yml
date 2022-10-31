@@ -10,4 +10,4 @@ website: mochi33.com
 commands:
   test:
     description: test command.
-    usage: '/ : 説明'
+    usage: '/test : this is test command '

@@ -5,6 +5,7 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
+
 public final class Aaaaaaaaaaaaaaa extends JavaPlugin {
 
     @Override
@@ -29,7 +30,8 @@ public final class Aaaaaaaaaaaaaaa extends JavaPlugin {
         // test コマンドの処理
         if(cmd.getName().equalsIgnoreCase("test")){
             // 取りあえずログ出力して終わる
-            getLogger().info("テストコマンドを実行しました");
+            getLogger().info(String.valueOf(RunTest.add(1000 , 200)));
+
         }
         // 該当するコマンド無し
         return false;
