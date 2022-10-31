@@ -7,3 +7,7 @@ load: POSTWORLD
 authors: [ mochi33 ]
 description: tset
 website: mochi33.com
+commands:
+  test:
+    description: test command.
+    usage: '/ : 説明'
