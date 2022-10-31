@@ -8,6 +8,7 @@ authors: [ mochi33 ]
 description: tset
 website: mochi33.com
 commands:
-  test:
-    description: test command.
-    usage: '/test : this is test command '
+  kit:
+    description: kit command
+    usage: hello world
+    permission: com.mochi33.kit
