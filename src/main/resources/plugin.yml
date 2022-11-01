@@ -12,3 +12,4 @@ commands:
     description: kit command
     usage: hello world
     permission: com.mochi33.kit
+

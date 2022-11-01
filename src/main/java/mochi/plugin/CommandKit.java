@@ -9,9 +9,9 @@ import org.bukkit.inventory.ItemStack;
 
 /**
  * 試しに制作したCommandです
+ *
  * @author mochi
  * @see org.bukkit.command.CommandExecutor
- *
  */
 public class CommandKit implements CommandExecutor {
     // This method is called, when somebody uses our command
@@ -22,7 +22,7 @@ public class CommandKit implements CommandExecutor {
             Player player = (Player) sender;
             // Here we need to give items to our player
             // Create a new ItemStack (type: diamond)
-            ItemStack diamond = new ItemStack(Material.DIAMOND ,40);
+            ItemStack diamond = new ItemStack(Material.DIAMOND, 40);
 
             // Create a new ItemStack (type: brick)
             ItemStack bricks = new ItemStack(Material.BRICK);
