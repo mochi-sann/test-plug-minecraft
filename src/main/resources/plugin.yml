@@ -12,4 +12,8 @@ commands:
     description: kit command
     usage: hello world
     permission: com.mochi33.kit
+  fire:
+    description: shot fire ball
+    usage: /fire [int:number]
+    permission: com.mochi33.FireCommand
 
